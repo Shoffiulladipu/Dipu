@@ -1,2 +1,0 @@
-# Dipu
-CGPA Calculator 
